@@ -12,7 +12,7 @@ import (
 
 var (
 	Name    string = "udpcombadge"
-	Version string = "v0.1.0"
+	Version string = "v0.1.1"
 
 	ListenHost    string
 	ListenPort    uint16
